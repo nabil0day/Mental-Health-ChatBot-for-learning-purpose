@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_where_can_i_get_help",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "You can get help for mental health concerns from a variety of sources including your doctor, a mental health professional, a support group, a hot line or online resources. It is important to reach out for help if you are struggling with your mental health."
+      ]
+    },
+    "questions": {
+      "en": [
+        "Where can I get help for my mental health?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

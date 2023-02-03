@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_what_is_bipolar_disorder",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Bipolar disorder is a mental health condition characterized by extreme mood swings, ranging from extreme highs (mania) to extreme lows (depression). These mood changes can interfere with daily life and relationships."
+      ]
+    },
+    "questions": {
+      "en": [
+        "What is bipolar disorder?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

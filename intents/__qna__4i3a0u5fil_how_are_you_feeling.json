@@ -1,0 +1,12 @@
+{
+  "name": "__qna__4i3a0u5fil_how_are_you_feeling",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "How are you feeling?"
+    ]
+  },
+  "slots": []
+}

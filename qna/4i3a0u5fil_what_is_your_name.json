@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_what_is_your_name",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "I am a mental health chatbot designed to provide support and resources."
+      ]
+    },
+    "questions": {
+      "en": [
+        "What is your name?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

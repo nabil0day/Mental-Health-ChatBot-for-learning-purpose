@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_how_are_you_feeling",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "I am a computer program, so I do not have emotions. But I am here to support you and help you with any mental health related concerns."
+      ]
+    },
+    "questions": {
+      "en": [
+        "How are you feeling?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_how_to_deal_with_stress",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Stress can be managed through various methods, such as exercise, mindfulness practices, time management, seeking support from loved ones or a mental health professional, and practicing good self-care habits like getting enough sleep and eating well."
+      ]
+    },
+    "questions": {
+      "en": [
+        "How can I deal with stress?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

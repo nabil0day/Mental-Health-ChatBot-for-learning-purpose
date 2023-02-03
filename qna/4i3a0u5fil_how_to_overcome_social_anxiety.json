@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_how_to_overcome_social_anxiety",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Overcoming social anxiety may involve a combination of therapy, self-help strategies, and lifestyle changes. Some helpful resources include cognitive-behavioral therapy, mindfulness practices, seeking support from loved ones, and gradually exposing yourself to social situations."
+      ]
+    },
+    "questions": {
+      "en": [
+        "How can I overcome social anxiety?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

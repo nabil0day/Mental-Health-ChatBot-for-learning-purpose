@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_what_is_depression",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Depression is a mental health disorder characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that once brought joy. It can also cause physical symptoms such as changes in appetite and sleep patterns."
+      ]
+    },
+    "questions": {
+      "en": [
+        "What is depression?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

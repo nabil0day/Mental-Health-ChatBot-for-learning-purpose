@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_what_is_self_care",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Self-care is the practice of taking care of your own physical, emotional, and mental well-being. This can include activities such as exercise, eating a healthy diet, getting enough sleep, practicing mindfulness and relaxation techniques, and seeking support from loved ones or mental health professionals."
+      ]
+    },
+    "questions": {
+      "en": [
+        "What is self-care?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

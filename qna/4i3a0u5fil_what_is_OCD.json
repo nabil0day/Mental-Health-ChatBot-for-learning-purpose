@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_what_is_OCD",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "OCD, or obsessive-compulsive disorder, is a mental health condition characterized by intrusive, repetitive thoughts (obsessions) and compulsive behaviors or mental acts (compulsions) that aim to reduce the anxiety caused by the obsessions."
+      ]
+    },
+    "questions": {
+      "en": [
+        "What is OCD?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

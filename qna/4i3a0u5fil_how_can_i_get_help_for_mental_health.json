@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_how_can_i_get_help_for_mental_health",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "There are many resources available to help with mental health concerns, including talking to a trusted friend or family member, seeking support from a mental health professional, joining a support group, and seeking help from organizations such as the National Alliance on Mental Illness (NAMI)."
+      ]
+    },
+    "questions": {
+      "en": [
+        "How can I get help for mental health?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

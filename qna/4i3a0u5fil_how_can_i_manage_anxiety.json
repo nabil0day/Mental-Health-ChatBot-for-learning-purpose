@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_how_can_i_manage_anxiety",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "There are many strategies that can help manage anxiety, including practicing relaxation techniques, engaging in physical activity, seeking support from loved ones or a mental health professional, and limiting caffeine and alcohol intake."
+      ]
+    },
+    "questions": {
+      "en": [
+        "How can I manage anxiety?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

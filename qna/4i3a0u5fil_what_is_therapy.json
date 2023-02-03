@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_what_is_therapy",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Therapy is a form of treatment for mental health concerns where a person meets with a mental health professional to discuss their thoughts, feelings, and behaviors. The goal is to help the person gain insight, develop coping skills, and improve their overall mental well-being."
+      ]
+    },
+    "questions": {
+      "en": [
+        "What is therapy?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

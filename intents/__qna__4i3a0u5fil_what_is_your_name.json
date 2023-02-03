@@ -1,0 +1,12 @@
+{
+  "name": "__qna__4i3a0u5fil_what_is_your_name",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "What is your name?"
+    ]
+  },
+  "slots": []
+}

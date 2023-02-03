@@ -1,0 +1,25 @@
+[
+  {
+    "id": "builtin_text-jQgci2",
+    "formData": {
+      "text$en": "Hey I am Mental Health ChatBot to assist you with the basic mental health issues. What's your name?",
+      "markdown$en": true,
+      "typing$en": true,
+      "variations$en": []
+    },
+    "createdBy": "admin",
+    "createdOn": "2023-02-03T15:20:01.318Z",
+    "modifiedOn": "2023-02-03T15:34:56.220Z"
+  },
+  {
+    "id": "builtin_text-gy3k0Y",
+    "formData": {
+      "text$en": "Nice to meet you {{user.Name}}!",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2023-02-03T15:33:50.007Z",
+    "modifiedOn": "2023-02-03T15:33:50.007Z"
+  }
+]

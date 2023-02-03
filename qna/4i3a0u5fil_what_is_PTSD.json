@@ -1,0 +1,22 @@
+{
+  "id": "4i3a0u5fil_what_is_PTSD",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "PTSD, or post-traumatic stress disorder, is a mental health condition that can develop after experiencing or witnessing a traumatic event, such as a natural disaster, war, sexual assault, or accident. Symptoms can include intrusive thoughts, avoidance behaviors, and heightened anxiety."
+      ]
+    },
+    "questions": {
+      "en": [
+        "What is PTSD?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}
